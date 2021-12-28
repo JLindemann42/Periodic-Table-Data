@@ -1,0 +1,80 @@
+[
+  {
+    "wikilink": "https://en.wikipedia.org/wiki/Gold",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Gold_nugget_%28Australia%29_4_%2816848647509%29.jpg/1024px-Gold_nugget_%28Australia%29_4_%2816848647509%29.jpg",
+    "description": "Gold is a chemical element with the symbol Au (from Latin: aurum) and atomic number 79, making it one of the higher atomic number elements that occur naturally. In a pure form, it is a bright, slightly reddish yellow, dense, soft, malleable, and ductile metal. Chemically, gold is a transition metal and a group 11 element. It is one of the least reactive chemical elements and is solid under standard conditions. Gold often occurs in free elemental (native) form, as nuggets or grains, in rocks, in veins, and in alluvial deposits. It occurs in a solid solution series with the native element silver (as electrum) and also naturally alloyed with copper and palladium. Less commonly, it occurs in minerals as gold compounds, often with tellurium (gold tellurides).",
+
+    "element": "Gold",
+    "short": "Au",
+    "element_year": "Deep Antiquity",
+    "element_discovered_name": "---",
+    "element_group": "Transition Metals",
+    "element_appearance": "Metallic yellow",
+    "element_electrons": "79",
+    "element_protons": "79",
+    "element_neutron_common": "118",
+
+    "radioactive": "No",
+    "neutron_cross_sectional": "98.7 (b)",
+
+    "electrical_type": "Conductor",
+    "resistivity": "2.2",
+    "resistivity_mult": "0.00000001",
+    "magnetic_type": "Diamagnetic",
+    "superconducting_point": "---",
+
+    "element_atomic_number": "79",
+    "element_atomicmass": "196.967 (u)",
+    "element_density": "19.3 (g/cm^3)",
+    "element_electronegativty": "2.54",
+    "element_block": "d - block",
+    "element_shells_electrons": "K2 L8 M18 N32 O18 P1 Q0 R0",
+    "element_model": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Electron_shell_079_Gold_-_no_label.svg/800px-Electron_shell_079_Gold_-_no_label.svg.png",
+
+    "element_boiling_kelvin": "3243 (K)",
+    "element_boiling_celsius": "2970 (°C)",
+    "element_boiling_fahrenheit": "5378 (°F)",
+    "element_melting_kelvin": "1337.33 (K)",
+    "element_melting_celsius": "1064.18 (°C)",
+    "element_melting_fahrenheit": "1947.52 (°F)",
+
+    "element_electron_config": "4f^14, 5d^10, 6s^1",
+    "element_ion_charge": "Au^+, Au^3+",
+    "element_ionization_energy1": "9.2255 (eV)",
+    "element_ionization_energy2": "20.5 (eV)",
+    "element_ionization_energy3": "30 (eV)",
+    "element_atomic_radius_e": "135 (pm)",
+    "element_atomic_radius": "174 (pm)",
+    "element_covalent_radius": "144 (pm)",
+    "element_van_der_waals": "166 (pm)",
+
+    "element_phase": "Solid",
+    "element_fusion_heat": "12.55 (kJ/mol)",
+    "element_specific_heat_capacity": "0.129 J/(g·K)",
+    "element_vaporization_heat": "342 (kJ/mol)",
+
+    "oxidation_state_neg": "3 2 1 0",
+    "oxidation_state_pos": "1 2 3 5",
+
+    "iso_1": "Au-196",
+    "iso_mass_1": "195.966570",
+    "iso_half_1": "6.1669 (days)",
+    "iso_Z_1": "79",
+    "iso_N_1": "117",
+    "iso_A_1": "196",
+
+    "iso_2": "Au-197",
+    "iso_mass_2": "196.9665687",
+    "iso_half_2": "Stable",
+    "iso_Z_2": "79",
+    "iso_N_2": "118",
+    "iso_A_2": "197",
+
+    "iso_3": "Au-198",
+    "iso_mass_3": "197.9682423",
+    "iso_half_3": "2.69517 (days)",
+    "iso_Z_3": "79",
+    "iso_N_3": "119",
+    "iso_A_3": "198"
+  }
+]

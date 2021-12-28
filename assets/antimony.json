@@ -1,0 +1,97 @@
+[
+  {
+    "wikilink": "https://en.wikipedia.org/wiki/Antimony",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Antimony-4.jpg",
+    "description": "Antimony is a chemical element with the symbol Sb (from Latin: stibium) and atomic number 51. A lustrous gray metalloid, it is found in nature mainly as the sulfide mineral stibnite (Sb2S3). Antimony compounds have been known since ancient times and were powdered for use as medicine and cosmetics, often known by the Arabic name kohl. Metallic antimony was also known, but it was erroneously identified as lead upon its discovery. The earliest known description of the metal in the West was written in 1540 by Vannoccio Biringuccio.",
+
+    "element": "Antimony",
+    "short": "Sb",
+    "element_year": "---",
+    "element_discovered_name": "---",
+    "element_group": "Metalloids",
+    "element_appearance": "Silvery Lustrous Gray",
+    "element_electrons": "51",
+    "element_protons": "51",
+    "element_neutron_common": "70",
+
+    "radioactive": "No",
+    "neutron_cross_sectional": "4.91 (b)",
+
+    "electrical_type": "Conductor",
+    "resistivity": "4",
+    "resistivity_mult": "0.0000001",
+    "magnetic_type": "Diamagnetic",
+    "superconducting_point": "---",
+
+    "element_atomic_number": "51",
+    "element_atomicmass": "121.760 (u)",
+    "element_density": "6.68 (g/cm^3)",
+    "element_electronegativty": "2.05",
+    "element_block": "p - block",
+    "element_shells_electrons": "K2 L8 18 N18 O5 P0 Q0 R0",
+    "element_model": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Electron_shell_051_Antimony_-_no_label.svg/800px-Electron_shell_051_Antimony_-_no_label.svg.png",
+
+    "element_boiling_kelvin": "1908 (K)",
+    "element_boiling_celsius": "1635 (°C)",
+    "element_boiling_fahrenheit": "2975 (°F)",
+    "element_melting_kelvin": "903.78 (K)",
+    "element_melting_celsius": "630.63 (°C)",
+    "element_melting_fahrenheit": "1167.13 (°F)",
+
+    "element_electron_config": "4d^10 5s^2 5p^3",
+    "element_ion_charge": "Sb^3+, Sb^5+",
+    "element_ionization_energy1": "8.6084 (eV)",
+    "element_ionization_energy2": "16.53051 (eV)",
+    "element_ionization_energy3": "25.3 (eV)",
+    "element_ionization_energy4": "44.2 (eV)",
+    "element_ionization_energy5": "56 (eV)",
+    "element_ionization_energy6": "108 (eV)",
+    "element_atomic_radius_e": "145 (pm)",
+    "element_atomic_radius": "133 (pm)",
+    "element_covalent_radius": "138 (pm)",
+    "element_van_der_waals": "206",
+
+    "element_phase": "Solid",
+    "element_fusion_heat": "19.79 (kJ/mol)",
+    "element_specific_heat_capacity": "0.217 J/(g·K)",
+    "element_vaporization_heat": "193.43 (kJ/mol)",
+
+    "oxidation_state_neg": "3 2 1 0",
+    "oxidation_state_pos": "1 2 3 4 5",
+
+    "iso_1": "Sb-120",
+    "iso_mass_1": "119.905072",
+    "iso_half_1": "15.89 (min)",
+    "iso_Z_1": "51",
+    "iso_N_1": "69",
+    "iso_A_1": "120",
+
+    "iso_2": "Sb-121",
+    "iso_mass_2": "120.9038157",
+    "iso_half_2": "Stable",
+    "iso_Z_2": "51",
+    "iso_N_2": "70",
+    "iso_A_2": "121",
+
+    "iso_3": "Sb-122",
+    "iso_mass_3": "121.9051737",
+    "iso_half_3": "2.7238 (days)",
+    "iso_Z_3": "51",
+    "iso_N_3": "61",
+    "iso_A_3": "122",
+
+    "iso_4": "Sb-123",
+    "iso_mass_4": "122.9042140",
+    "iso_half_4": "Stable",
+    "iso_Z_4": "51",
+    "iso_N_4": "62",
+    "iso_A_4": "123",
+
+    "iso_5": "Sb-124",
+    "iso_mass_5": "123.9059357",
+    "iso_half_5": "60.20 (days)",
+    "iso_Z_5": "51",
+    "iso_N_5": "63",
+    "iso_A_5": "124"
+  }
+]

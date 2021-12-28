@@ -1,0 +1,93 @@
+[
+  {
+    "wikilink": "https://en.wikipedia.org/wiki/Caesium",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Cesium.jpg/1920px-Cesium.jpg",
+    "description": "Caesium (IUPAC spelling) (also spelled cesium in American English) is a chemical element with the symbol Cs and atomic number 55. It is a soft, silvery-golden alkali metal with a melting point of 28.5 °C (83.3 °F), which makes it one of only five elemental metals that are liquid at or near room temperature. Caesium has physical and chemical properties similar to those of rubidium and potassium. The most reactive of all metals, it is pyrophoric and reacts with water even at −116 °C (−177 °F). It is the least electronegative element, with a value of 0.79 on the Pauling scale. It has only one stable isotope, caesium-133. Caesium is mined mostly from pollucite, while the radioisotopes, especially caesium-137, a fission product, are extracted from waste produced by nuclear reactors.",
+
+    "element": "Caesium",
+    "short": "Cs",
+    "element_year": "1860",
+    "element_discovered_name": "Robert Bunsen",
+    "element_group": "Alkali Metals",
+    "element_appearance": "Pale Gold",
+    "element_electrons": "55",
+    "element_protons": "55",
+    "element_neutron_common": "78",
+
+    "radioactive": "No",
+    "neutron_cross_sectional": "29 (b)",
+
+    "electrical_type": "Conductor",
+    "resistivity": "2",
+    "resistivity_mult": "0.0000001",
+    "magnetic_type": "Paramagnetic",
+    "superconducting_point": "---",
+
+    "element_atomic_number": "55",
+    "element_atomicmass": "132.9055 (u)",
+    "element_density": "1.93 (g/cm^3)",
+    "element_electronegativty": "0.79",
+    "element_block": "s - block",
+    "element_shells_electrons": "K2 L8 18 N18 O8 P1 Q0 R0",
+    "element_model": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Electron_shell_055_Caesium_-_no_label.svg/1280px-Electron_shell_055_Caesium_-_no_label.svg.png",
+
+    "element_boiling_kelvin": "944 (K)",
+    "element_boiling_celsius": "671 (°C)",
+    "element_boiling_fahrenheit": "1240 (°F)",
+    "element_melting_kelvin": "301.7 (K)",
+    "element_melting_celsius": "28.5 (°C)",
+    "element_melting_fahrenheit": "83.3 (°F)",
+
+    "element_electron_config": "6s^1",
+    "element_ion_charge": "Cs^+",
+    "element_ionization_energy1": "3.89390 (eV)",
+    "element_ionization_energy2": "23.15745 (eV)",
+    "element_atomic_radius_e": "265 (pm)",
+    "element_atomic_radius": "298 (pm)",
+    "element_covalent_radius": "225 (pm)",
+    "element_van_der_waals": "343",
+
+    "element_phase": "Solid",
+    "element_fusion_heat": "2.09 (kJ/mol)",
+    "element_specific_heat_capacity": "0.242 J/(g·K)",
+    "element_vaporization_heat": "63.9 (kJ/mol)",
+
+    "oxidation_state_neg": "1",
+    "oxidation_state_pos": "1",
+
+    "iso_1": "Cs-132",
+    "iso_mass_1": "131.9064343",
+    "iso_half_1": "6.480 (days)",
+    "iso_Z_1": "55",
+    "iso_N_1": "77",
+    "iso_A_1": "132",
+
+    "iso_2": "Cs-133",
+    "iso_mass_2": "132.905451933",
+    "iso_half_2": "Stable",
+    "iso_Z_2": "55",
+    "iso_N_2": "78",
+    "iso_A_2": "133",
+
+    "iso_3": "Cs-134",
+    "iso_mass_3": "133.906718475",
+    "iso_half_3": "2.0652 (Years)",
+    "iso_Z_3": "55",
+    "iso_N_3": "79",
+    "iso_A_3": "134",
+
+    "iso_4": "Cs-135",
+    "iso_mass_4": "134.9059770",
+    "iso_half_4": "2.3x10^6 (Years)",
+    "iso_Z_4": "55",
+    "iso_N_4": "80",
+    "iso_A_4": "135",
+
+    "iso_5": "Cs-136",
+    "iso_mass_5": "135.9073116",
+    "iso_half_5": "13.16 (Days)",
+    "iso_Z_5": "55",
+    "iso_N_5": "81",
+    "iso_A_5": "136"
+  }
+]

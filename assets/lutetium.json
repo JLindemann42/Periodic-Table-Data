@@ -1,0 +1,75 @@
+[
+  {
+    "wikilink": "https://en.wikipedia.org/wiki/Lutetium",
+    "link": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lutetium_sublimed_dendritic_and_1cm3_cube.jpg/800px-Lutetium_sublimed_dendritic_and_1cm3_cube.jpg",
+    "description": "Lutetium is a chemical element with the symbol Lu and atomic number 71. It is a silvery white metal, which resists corrosion in dry air, but not in moist air. Lutetium is the last element in the lanthanide series, and it is traditionally counted among the rare earths. Lutetium is sometimes considered the first element of the 6th-period transition metals, although lanthanum is more often considered as such.",
+
+    "element": "Lutetium",
+    "short": "Lu",
+    "element_year": "1906",
+    "element_discovered_name": "Carl Auer von Welsbach",
+    "element_group": "Lanthanoids",
+    "element_appearance": "Silvery White",
+    "element_electrons": "71",
+    "element_protons": "71",
+    "element_neutron_common": "104",
+
+    "radioactive": "No",
+    "neutron_cross_sectional": "84 (b)",
+
+    "electrical_type": "Conductor",
+    "resistivity": "5.6",
+    "resistivity_mult": "0.0000001",
+    "magnetic_type": "Paramagnetic",
+    "superconducting_point": "0.1",
+
+    "element_atomic_number": "71",
+    "element_atomicmass": "174.9668 (u)",
+    "element_density": "9.84 (g/cm^3)",
+    "element_electronegativty": "1.27",
+    "element_block": "f - block",
+    "element_shells_electrons": "K2 L8 M18 N32 O9 P2 Q0 R0",
+    "element_model": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Electron_shell_071_Lutetium_-_no_label.svg/800px-Electron_shell_071_Lutetium_-_no_label.svg.png",
+
+    "element_boiling_kelvin": "3675 (K)",
+    "element_boiling_celsius": "3402 (°C)",
+    "element_boiling_fahrenheit": "6156 (°F)",
+    "element_melting_kelvin": "1925 (K)",
+    "element_melting_celsius": "1652 (°C)",
+    "element_melting_fahrenheit": "3006 (°F)",
+
+    "element_electron_config": "4f^14, 5d^1 6s^2",
+    "element_ion_charge": "Lu^3+",
+    "element_ionization_energy1": "5.4259 (eV)",
+    "element_ionization_energy2": "13.9 (eV)",
+    "element_ionization_energy3": "20.9594 (eV)",
+    "element_ionization_energy4": "45.25 (eV)",
+    "element_ionization_energy5": "66.8 (eV)",
+    "element_atomic_radius_e": "175 (pm)",
+    "element_atomic_radius": "217 (pm)",
+    "element_covalent_radius": "--- (pm)",
+    "element_van_der_waals": "---",
+
+    "element_phase": "Solid",
+    "element_fusion_heat": "22 (kJ/mol)",
+    "element_specific_heat_capacity": "0.154 J/(g·K)",
+    "element_vaporization_heat": "414 (kJ/mol)",
+
+    "oxidation_state_neg": "0",
+    "oxidation_state_pos": "2 3",
+
+    "iso_1": "Lu-163",
+    "iso_mass_1": "162.94118",
+    "iso_half_1": "3.97 (min)",
+    "iso_Z_1": "71",
+    "iso_N_1": "92",
+    "iso_A_1": "163",
+
+    "iso_2": "Lu-164",
+    "iso_mass_2": "163.94134",
+    "iso_half_2": "3.14 (min)",
+    "iso_Z_2": "71",
+    "iso_N_2": "93",
+    "iso_A_2": "164"
+  }
+]
